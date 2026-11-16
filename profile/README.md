@@ -1,5 +1,9 @@
 <!-- Public org profile: github.com/ShamyLab. Edit the tagline and sections freely. -->
 
+<p align="center">
+  <img alt="ShamyLab logo" src="https://raw.githubusercontent.com/ShamyLab/.github/main/profile/assets/logo.png" width="120">
+</p>
+
 <h1 align="center">ShamyLab</h1>
 
 <p align="center">
